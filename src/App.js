@@ -20,7 +20,7 @@ class App extends Component {
 				icon: calendar,
 				title: "Total Appointment Management",
 				text:
-					"Powerful calendar scheduling in a simple inerface makes it easy to handle all of your customers and appointments."
+					"Powerful calendar scheduling in a simple interface makes it easy to handle all of your customers and appointments."
 			},
 			{
 				icon: walkin,
