@@ -3,18 +3,26 @@ import React from "react"
 const plans = [
 	{
 		name: "Basic",
-		price: 49,
-		features: ["Unlimited Appointments", "Wait Time Widget", "Email Support"]
+		price: 29,
+		features: ["3 Staff Members", "Unlimited Appointments", "Wait Time Widget", "Email Support"]
 	},
 	{
 		name: "Fresh",
 		price: 79,
-		features: ["Unlimited Appointments", "Wait Time Widget", "Check In App", "Professional Reports", "Email Support"]
+		features: [
+			"10 Staff Members",
+			"Unlimited Appointments",
+			"Wait Time Widget",
+			"Check In App",
+			"Professional Reports",
+			"Email Support"
+		]
 	},
 	{
 		name: "Super Fresh",
-		price: 129,
+		price: 99,
 		features: [
+			"Unlimited Staff Members",
 			"Unlimited Appointments",
 			"Wait Time Widget",
 			"Check In App",
